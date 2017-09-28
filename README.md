@@ -1,2 +1,3 @@
 # hello-world
-Testing out Git Hub
+
+I'm a copywriter, editor, and web developer. Let's connect.
